@@ -1,0 +1,4 @@
+Reference,Component,Value,Package / Footprint,Quantity,Purpose
+J1,2-pin connector/header,5V / GND,HDR-TH_2P-P2.54-V-F,1,5V power input
+R1,Through-hole resistor,330 ohm,R_AXIAL-0.4,1,LED current limiting
+LED1,5 mm LED,5 mm,LED-TH_BD5.8-P2.54-FD,1,5V power indicator
